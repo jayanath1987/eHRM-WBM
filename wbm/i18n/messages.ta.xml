@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Add Benefit</source>
+                <target>சலுகை சேர்த்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Name</source>
+                <target>சலுகையின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Edit</source>
+                <target>சலுகையை புதுபித்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Type Name</source>
+                <target>சலுகை வகையின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Benefit Type</source>
+                <target>சலுகை வகை சேர்த்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit</source>
+                <target>சலுகை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Benefit</source>
+                <target>சலுகையை புதுபித்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit is required in English</source>
+                <target>சலுகை ஆங்கிலத்தில் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Benefit Type</source>
+                <target>சலுகை வகையை புதுப்பித்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Disbursement</source>
+                <target>வழங்கப்பட்ட சலுகைகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Disbursement Date</source>
+                <target>வழங்கப்பட்ட திகதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Benefit Disbursement</source>
+                <target>சலுகை விநியோகம் சேர்த்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Type</source>
+                <target>சலுகை வகை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Type Edit</source>
+                <target>சலுகை வகையை புதுப்பித்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Type Name</source>
+                <target>சலுகை வகையின் பெயர் </target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select Benefit Type</source>
+                <target>சலுகை வகையை தெரிவு செய்க </target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select Benefit</source>
+                <target>சலுகையை தெரிவு செய்க </target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>BenefitType is required in English</source>
+                <target>சலுகை வகை ஆங்கிலத்தில் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Edit Benefit Disbursement</source>
+                <target>சலுகை வழங்குதலை புதுபித்தல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Benefit Type Summary</source>
+                <target>சலுகை வகைச் சுருக்கம் </target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Define Benefit Type</source>
+                <target>சலுகை வகையை விபரித்தல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Benefits Summary</source>
+                <target>சலுகை சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Define Benefit</source>
+                <target>சலுகையை விபரித்தல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Benefit Disbursement Summary</source>
+                <target>சலுகை விநியோகம் சுருக்கம்</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
+

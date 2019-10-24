@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Add Benefit</source>
+                <target>නව ශුභසාධක</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Name</source>
+                <target>භුභසාධක</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Edit</source>
+                <target>ශුභසාධක සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Type Name</source>
+                <target>භුභසාධක වර්ග</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Benefit Type</source>
+                <target>නව ශුභසාධක වර්ග</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit</source>
+                <target>ශුභසාධක</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Benefit</source>
+                <target>ශුභසාධක සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit is required in English</source>
+                <target>ඉංග්‍රීසියෙන් අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Edit Benefit Type</source>
+                <target>ශුභසාධක වර්ග සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Disbursement</source>
+                <target>ශුභසාධක වියපැහැදම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Disbursement Date</source>
+                <target>වියපැහැදම් දිනය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Benefit Disbursement</source>
+                <target>නව ශුභසාධක වියපැහැදම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Type</source>
+                <target>ශුභසාධක වර්ග</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Type Edit</source>
+                <target>ශුභසාධක වර්ග සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Benefit Type Name</source>
+                <target>ශුභසාධක වර්ග</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select Benefit Type</source>
+                <target>ශුභසාධක වර්ග තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select Benefit</source>
+                <target>ශුභසාධක තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>BenefitType is required in English</source>
+                <target>අනිවාර්යයි</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Edit Benefit Disbursement</source>
+                <target>ශුභසාධක වියපැහැදම සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Benefit Type Summary</source>
+                <target>ශුභසාධක වර්ග සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Define Benefit Type</source>
+                <target>ශුභසාධක වර්ග නිර්වචනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Benefits Summary</source>
+                <target>ශුභසාධක සාරාංශය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Define Benefit</source>
+                <target>ශුභසාධක නිර්වචනය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Benefit Disbursement Summary</source>
+                <target>ශුභසාධක වියපැහැදම් සාරාංශය</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
+
